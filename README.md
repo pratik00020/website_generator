@@ -42,7 +42,7 @@ An innovative AI-powered website generator that allows users to create web appli
 
 ## Demo
 
-- **Live Demo**: Click [here](https://website-generator-kr.vercel.app/) to view the live demo.
+- **Live Demo**: Click [here](https://website-generator-nu-six.vercel.app/) to view the live demo.
 
 ## Technologies Used
 
