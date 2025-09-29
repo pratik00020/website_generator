@@ -79,7 +79,7 @@ An innovative AI-powered website generator that allows users to create web appli
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Kartik-Rao11/website_generator.git
+   git clone https://github.com/pratik00020/website_generator.git
    ```
 
 2. Change to project directory:
